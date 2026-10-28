@@ -1,0 +1,83 @@
+{
+  "$schema": "https://schema.openspace.host/v1/page.json",
+  "id": "pg_5y6j5y52f2",
+  "title": "Home",
+  "slug": "",
+  "seo": {
+    "title": null,
+    "description": "Seriph is being set up.",
+    "noindex": true
+  },
+  "sections": [
+    {
+      "id": "sec_f7vmtr36nq",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "align": "center",
+        "width": "narrow"
+      },
+      "style": {
+        "colorTheme": "light",
+        "padding": {
+          "d": "xl",
+          "m": "lg"
+        },
+        "minHeight": {
+          "d": "70vh"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_6p4q0h1mgs",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 1
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Seriph"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_0xwdnsj3nd",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "This site is being set up. Please check back soon."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
