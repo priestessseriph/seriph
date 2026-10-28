@@ -1,0 +1,77 @@
+{
+  "media/2026/10/rs-w-806-h-538-yg83.jpg": {
+    "id": "med_yg839wm869",
+    "path": "media/2026/10/rs-w-806-h-538-yg83.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 58219,
+    "width": 806,
+    "height": 538,
+    "alt": "",
+    "createdAt": "2026-10-28T20:54:23.564Z",
+    "originalName": "rs=w:806,h:538",
+    "credit": {
+      "source": "Imported from GoDaddy Website Builder"
+    }
+  },
+  "media/2026/10/blob-06b1756-jzh8.jpg": {
+    "id": "med_jzh859zat6",
+    "path": "media/2026/10/blob-06b1756-jzh8.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 87324,
+    "width": 1024,
+    "height": 683,
+    "alt": "",
+    "createdAt": "2026-10-28T20:54:23.564Z",
+    "originalName": "blob-06b1756.png",
+    "credit": {
+      "source": "Imported from GoDaddy Website Builder"
+    }
+  },
+  "media/2026/10/blob-74ebed5-jef9.jpg": {
+    "id": "med_jef9qe2hrt",
+    "path": "media/2026/10/blob-74ebed5-jef9.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 109754,
+    "width": 1365,
+    "height": 1910,
+    "alt": "",
+    "createdAt": "2026-10-28T20:54:23.564Z",
+    "originalName": "blob-74ebed5.png",
+    "credit": {
+      "source": "Imported from GoDaddy Website Builder"
+    }
+  },
+  "media/2026/10/img-5732-tzjf.jpg": {
+    "id": "med_tzjfh61zty",
+    "path": "media/2026/10/img-5732-tzjf.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 74181,
+    "width": 750,
+    "height": 957,
+    "alt": "",
+    "createdAt": "2026-10-28T20:54:23.564Z",
+    "originalName": "IMG_5732.PNG",
+    "credit": {
+      "source": "Imported from GoDaddy Website Builder"
+    }
+  },
+  "media/2026/10/rs-w-180-h-180-m-5yf8.jpg": {
+    "id": "med_5yf8xbp6rj",
+    "path": "media/2026/10/rs-w-180-h-180-m-5yf8.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 9792,
+    "width": 181,
+    "height": 180,
+    "alt": "",
+    "createdAt": "2026-10-28T20:54:23.564Z",
+    "originalName": "rs=w:180,h:180,m",
+    "credit": {
+      "source": "Imported from GoDaddy Website Builder"
+    }
+  }
+}

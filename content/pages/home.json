@@ -1,39 +1,360 @@
 {
-  "$schema": "https://schema.openspace.host/v1/page.json",
-  "id": "pg_5y6j5y52f2",
+  "id": "pg_mfcnkg7gde",
   "title": "Home",
   "slug": "",
   "seo": {
-    "title": null,
-    "description": "Seriph is being set up.",
-    "noindex": true
+    "title": "Tantric Connection",
+    "description": "Expand your pleasure capacity by slowing down & allowing your awareness to surprise you My name is Seriph & I'm a sensuality guide and sexological bodyworker!",
+    "image": "media/2026/10/blob-06b1756-jzh8.jpg"
   },
   "sections": [
     {
-      "id": "sec_f7vmtr36nq",
+      "id": "sec_8q399c4fbq",
       "layout": {
         "mode": "stack",
         "columns": {
           "d": [
             12
           ]
-        },
-        "align": "center",
-        "width": "narrow"
+        }
       },
       "style": {
-        "colorTheme": "light",
-        "padding": {
-          "d": "xl",
-          "m": "lg"
-        },
-        "minHeight": {
-          "d": "70vh"
-        }
+        "colorTheme": "light"
       },
       "blocks": [
         {
-          "id": "blk_6p4q0h1mgs",
+          "id": "blk_s7w8xcp399",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Signed in as:"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "filler@godaddy.com"
+                    }
+                  ]
+                },
+                {
+                  "type": "bulletList",
+                  "content": [
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Home",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "About",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/about/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Services",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/services/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Couples Retreat",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/couples-retreat/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Femme Services",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/femme-services/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Booking Request",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/booking-request/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Reviews",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/reviews/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Blog",
+                              "marks": [
+                                {
+                                  "type": "link",
+                                  "attrs": {
+                                    "href": "/blog/"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Account"
+                    }
+                  ]
+                },
+                {
+                  "type": "bulletList",
+                  "content": [
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Bookings"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "My Account"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Sign out"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "bulletList",
+                  "content": [
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Sign In"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Bookings"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "My Account"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    },
+    {
+      "id": "sec_6vqsp1tae1",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_hkefdacbcf",
           "type": "text",
           "v": 1,
           "fields": {
@@ -48,7 +369,69 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Seriph"
+                      "text": "Winter Travels:"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Winston-Salem, NC (Lewisville) Oct 12 -Nov 8th"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Dutton, VA November 18-December 13th"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Navarre, FL December 21-January 30th"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Services Provided",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "/services/",
+                            "newTab": true
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Booking Request Form",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "/booking-request/"
+                          }
+                        }
+                      ]
                     }
                   ]
                 }
@@ -57,27 +440,23 @@
           }
         },
         {
-          "id": "blk_0xwdnsj3nd",
-          "type": "text",
+          "id": "blk_88v8scx3h3",
+          "type": "image",
           "v": 1,
           "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "This site is being set up. Please check back soon."
-                    }
-                  ]
-                }
-              ]
-            }
+            "image": {
+              "src": "media/2026/10/rs-w-806-h-538-yg83.jpg",
+              "alt": "",
+              "width": 806,
+              "height": 538,
+              "mediaId": "med_yg839wm869"
+            },
+            "aspect": "original",
+            "lightbox": false
           }
         }
-      ]
+      ],
+      "preset": "starter/stack-12@1"
     }
   ]
 }

@@ -1,0 +1,1467 @@
+{
+  "score": 29,
+  "exact": 29.49,
+  "strict": {
+    "score": 29,
+    "exact": 29.49
+  },
+  "scorer": "v3.1-corrected",
+  "pages": [
+    {
+      "path": "/",
+      "original": "https://tantra369.com/",
+      "imported": "/ (local preview)",
+      "viewport": 1440,
+      "score": 48,
+      "structure": 47,
+      "exact": 47.608568172312665,
+      "checks": [
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "Cinzel",
+          "imported": "Cinzel",
+          "ok": true,
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 1 size",
+          "original": "71px",
+          "imported": "71px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "Source Sans Pro",
+          "imported": "Source Sans Pro",
+          "ok": true,
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "18px",
+          "imported": "18px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Buttons: present",
+          "original": "Source Sans Pro 16px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "Source Sans Pro",
+          "imported": "Source Sans Pro",
+          "ok": true,
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Navigation size",
+          "original": "16px",
+          "imported": "16px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation letter spacing and case",
+          "original": "0.071em, uppercase",
+          "imported": "0.071em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Content width",
+          "original": "1344px",
+          "imported": "1344px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "56px",
+          "imported": "56px",
+          "ok": true,
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "Sacred Sensuality",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafafa",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Great Vibes 60px",
+              "imported": "Cinzel 71px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Source Sans Pro 25px",
+              "imported": "Source Sans Pro 18px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#202020",
+              "ok": false,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "3",
+              "imported": "1",
+              "ok": false,
+              "fix": "Lay the text out in columns (a stack layout with more columns, or the text block's Columns style).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "left, 45% wide",
+              "imported": "center, 93% wide",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "1.27:1",
+              "imported": "1.5:1",
+              "ok": false,
+              "fix": "Use the original's image proportions (the block's aspect ratio).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "825px",
+              "imported": "1314px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 17
+        },
+        {
+          "index": 1,
+          "heading": "Welcome More Pleasure",
+          "checks": [
+            {
+              "area": "section",
+              "what": "Present",
+              "original": "Welcome More Pleasure",
+              "imported": "no matching section",
+              "ok": false,
+              "fix": "Bring this section across (or check it was merged into another).",
+              "weight": 4
+            }
+          ],
+          "score": 0
+        },
+        {
+          "index": 2,
+          "heading": "Touring:",
+          "checks": [
+            {
+              "area": "section",
+              "what": "Present",
+              "original": "Touring:",
+              "imported": "no matching section",
+              "ok": false,
+              "fix": "Bring this section across (or check it was merged into another).",
+              "weight": 4
+            }
+          ],
+          "score": 0
+        },
+        {
+          "index": 3,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Present",
+              "original": "PREMIUM CHAT LINK EMAIL ME",
+              "imported": "no matching section",
+              "ok": false,
+              "fix": "Bring this section across (or check it was merged into another).",
+              "weight": 4
+            }
+          ],
+          "score": 0
+        }
+      ],
+      "strict": {
+        "score": 48,
+        "exact": 47.608568172312665,
+        "structure": 47,
+        "checks": 46.51162790697674
+      },
+      "visual": 0.509
+    },
+    {
+      "path": "/",
+      "original": "https://tantra369.com/",
+      "imported": "/ (local preview)",
+      "viewport": 390,
+      "score": 43,
+      "structure": 39,
+      "exact": 42.79030682297251,
+      "checks": [
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "Cinzel",
+          "imported": "Cinzel",
+          "ok": true,
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 1 size",
+          "original": "46px",
+          "imported": "39.1px",
+          "ok": false,
+          "fix": "choices.typography.scale.h1.sizeMobile = 46",
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "Source Sans Pro",
+          "imported": "Source Sans Pro",
+          "ok": true,
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "18px",
+          "imported": "18px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Buttons: present",
+          "original": "Source Sans Pro 16px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "40px",
+          "imported": "57px",
+          "ok": false,
+          "fix": "choices.layout.sectionPaddingMobile = 40",
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "Sacred Sensuality",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafafa",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Great Vibes 44px",
+              "imported": "Cinzel 39.1px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Source Sans Pro 25px",
+              "imported": "Source Sans Pro 18px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#202020",
+              "ok": false,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "center, 88% wide",
+              "imported": "center, 84% wide",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "1.28:1",
+              "imported": "1.5:1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1040px",
+              "imported": "621px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 50
+        },
+        {
+          "index": 1,
+          "heading": "Welcome More Pleasure",
+          "checks": [
+            {
+              "area": "section",
+              "what": "Present",
+              "original": "Welcome More Pleasure",
+              "imported": "no matching section",
+              "ok": false,
+              "fix": "Bring this section across (or check it was merged into another).",
+              "weight": 4
+            }
+          ],
+          "score": 0
+        },
+        {
+          "index": 2,
+          "heading": "Touring:",
+          "checks": [
+            {
+              "area": "section",
+              "what": "Present",
+              "original": "Touring:",
+              "imported": "no matching section",
+              "ok": false,
+              "fix": "Bring this section across (or check it was merged into another).",
+              "weight": 4
+            }
+          ],
+          "score": 0
+        },
+        {
+          "index": 3,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Present",
+              "original": "PREMIUM CHAT LINK EMAIL ME",
+              "imported": "no matching section",
+              "ok": false,
+              "fix": "Bring this section across (or check it was merged into another).",
+              "weight": 4
+            }
+          ],
+          "score": 0
+        }
+      ],
+      "strict": {
+        "score": 43,
+        "exact": 42.79030682297251,
+        "structure": 39,
+        "checks": 38.888888888888886
+      },
+      "visual": 0.545
+    },
+    {
+      "path": "/about",
+      "original": "https://tantra369.com/about/",
+      "imported": "/about (local preview)",
+      "viewport": 1440,
+      "score": 31,
+      "structure": 27,
+      "exact": 30.84852245262677,
+      "checks": [
+        {
+          "area": "type",
+          "what": "Heading 1: present",
+          "original": "Cinzel 51px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Heading 2: present",
+          "original": "Cinzel 51px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Body text: present",
+          "original": "Source Sans Pro 18px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Buttons: present",
+          "original": "Source Sans Pro 14px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "Source Sans Pro",
+          "imported": "Source Sans Pro",
+          "ok": true,
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Navigation size",
+          "original": "16px",
+          "imported": "16px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation letter spacing and case",
+          "original": "0.071em, uppercase",
+          "imported": "0.071em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "57.5px",
+          "imported": "56px",
+          "ok": true,
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "Sacred Sensuality",
+          "checks": [
+            {
+              "area": "section",
+              "what": "Present",
+              "original": "Sacred Sensuality",
+              "imported": "no matching section",
+              "ok": false,
+              "fix": "Bring this section across (or check it was merged into another).",
+              "weight": 4
+            }
+          ],
+          "score": 0
+        },
+        {
+          "index": 1,
+          "heading": "About Seriph",
+          "checks": [
+            {
+              "area": "section",
+              "what": "Present",
+              "original": "About Seriph",
+              "imported": "no matching section",
+              "ok": false,
+              "fix": "Bring this section across (or check it was merged into another).",
+              "weight": 4
+            }
+          ],
+          "score": 0
+        },
+        {
+          "index": 2,
+          "heading": "Why Tantra?",
+          "checks": [
+            {
+              "area": "section",
+              "what": "Present",
+              "original": "Why Tantra?",
+              "imported": "no matching section",
+              "ok": false,
+              "fix": "Bring this section across (or check it was merged into another).",
+              "weight": 4
+            }
+          ],
+          "score": 0
+        }
+      ],
+      "strict": {
+        "score": 31,
+        "exact": 30.84852245262677,
+        "structure": 27,
+        "checks": 27.272727272727273
+      },
+      "visual": 0.416
+    },
+    {
+      "path": "/about",
+      "original": "https://tantra369.com/about/",
+      "imported": "/about (local preview)",
+      "viewport": 390,
+      "score": 15,
+      "structure": 6,
+      "exact": 14.589659623230519,
+      "checks": [
+        {
+          "area": "type",
+          "what": "Heading 1: present",
+          "original": "Cinzel 37px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Heading 2: present",
+          "original": "Cinzel 37px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Body text: present",
+          "original": "Source Sans Pro 18px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Buttons: present",
+          "original": "Source Sans Pro 14px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "52px",
+          "imported": "51px",
+          "ok": true,
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "Sacred Sensuality",
+          "checks": [
+            {
+              "area": "section",
+              "what": "Present",
+              "original": "Sacred Sensuality",
+              "imported": "no matching section",
+              "ok": false,
+              "fix": "Bring this section across (or check it was merged into another).",
+              "weight": 4
+            }
+          ],
+          "score": 0
+        },
+        {
+          "index": 1,
+          "heading": "About Seriph",
+          "checks": [
+            {
+              "area": "section",
+              "what": "Present",
+              "original": "About Seriph",
+              "imported": "no matching section",
+              "ok": false,
+              "fix": "Bring this section across (or check it was merged into another).",
+              "weight": 4
+            }
+          ],
+          "score": 0
+        },
+        {
+          "index": 2,
+          "heading": "Why Tantra?",
+          "checks": [
+            {
+              "area": "section",
+              "what": "Present",
+              "original": "Why Tantra?",
+              "imported": "no matching section",
+              "ok": false,
+              "fix": "Bring this section across (or check it was merged into another).",
+              "weight": 4
+            }
+          ],
+          "score": 0
+        }
+      ],
+      "strict": {
+        "score": 15,
+        "exact": 14.589659623230519,
+        "structure": 6,
+        "checks": 5.882352941176471
+      },
+      "visual": 0.407
+    },
+    {
+      "path": "/blog",
+      "original": "https://tantra369.com/blog/",
+      "imported": "/blog (local preview)",
+      "viewport": 1440,
+      "score": 39,
+      "structure": 29,
+      "exact": 39.25650831967797,
+      "checks": [
+        {
+          "area": "type",
+          "what": "Heading 1: present",
+          "original": "Cinzel 51px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Body text: present",
+          "original": "Source Sans Pro 18px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Buttons: present",
+          "original": "Source Sans Pro 14px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "Source Sans Pro",
+          "imported": "Source Sans Pro",
+          "ok": true,
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Navigation size",
+          "original": "16px",
+          "imported": "16px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation letter spacing and case",
+          "original": "0.071em, uppercase",
+          "imported": "0.071em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "40px",
+          "imported": "56px",
+          "ok": false,
+          "fix": "choices.layout.sectionPadding = 40",
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "Sacred Sensuality",
+          "checks": [
+            {
+              "area": "section",
+              "what": "Present",
+              "original": "Sacred Sensuality",
+              "imported": "no matching section",
+              "ok": false,
+              "fix": "Bring this section across (or check it was merged into another).",
+              "weight": 4
+            }
+          ],
+          "score": 0
+        },
+        {
+          "index": 1,
+          "heading": "My Blog",
+          "checks": [
+            {
+              "area": "section",
+              "what": "Present",
+              "original": "My Blog",
+              "imported": "no matching section",
+              "ok": false,
+              "fix": "Bring this section across (or check it was merged into another).",
+              "weight": 4
+            }
+          ],
+          "score": 0
+        }
+      ],
+      "strict": {
+        "score": 39,
+        "exact": 39.25650831967797,
+        "structure": 29,
+        "checks": 29.41176470588235
+      },
+      "visual": 0.688
+    },
+    {
+      "path": "/blog",
+      "original": "https://tantra369.com/blog/",
+      "imported": "/blog (local preview)",
+      "viewport": 390,
+      "score": 21,
+      "structure": 8,
+      "exact": 21.451935185431505,
+      "checks": [
+        {
+          "area": "type",
+          "what": "Heading 1: present",
+          "original": "Cinzel 37px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Body text: present",
+          "original": "Source Sans Pro 18px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Buttons: present",
+          "original": "Source Sans Pro 14px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "49.5px",
+          "imported": "51px",
+          "ok": true,
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "Sacred Sensuality",
+          "checks": [
+            {
+              "area": "section",
+              "what": "Present",
+              "original": "Sacred Sensuality",
+              "imported": "no matching section",
+              "ok": false,
+              "fix": "Bring this section across (or check it was merged into another).",
+              "weight": 4
+            }
+          ],
+          "score": 0
+        },
+        {
+          "index": 1,
+          "heading": "My Blog",
+          "checks": [
+            {
+              "area": "section",
+              "what": "Present",
+              "original": "My Blog",
+              "imported": "no matching section",
+              "ok": false,
+              "fix": "Bring this section across (or check it was merged into another).",
+              "weight": 4
+            }
+          ],
+          "score": 0
+        }
+      ],
+      "strict": {
+        "score": 21,
+        "exact": 21.451935185431505,
+        "structure": 8,
+        "checks": 8.333333333333334
+      },
+      "visual": 0.608
+    },
+    {
+      "path": "/blog/f/what-is-it-to-be",
+      "original": "https://tantra369.com/blog/f/what-is-it-to-be/",
+      "imported": "/blog/f/what-is-it-to-be (local preview)",
+      "viewport": 1440,
+      "score": 42,
+      "structure": 35,
+      "exact": 41.89494784802642,
+      "checks": [
+        {
+          "area": "type",
+          "what": "Heading 1: present",
+          "original": "Cinzel 51px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Body text: present",
+          "original": "Source Sans Pro 18px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Buttons: present",
+          "original": "Source Sans Pro 14px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "Source Sans Pro",
+          "imported": "Source Sans Pro",
+          "ok": true,
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Navigation size",
+          "original": "16px",
+          "imported": "16px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation letter spacing and case",
+          "original": "0.071em, uppercase",
+          "imported": "0.071em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "57.5px",
+          "imported": "56px",
+          "ok": true,
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "Sacred Sensuality",
+          "checks": [
+            {
+              "area": "section",
+              "what": "Present",
+              "original": "Sacred Sensuality",
+              "imported": "no matching section",
+              "ok": false,
+              "fix": "Bring this section across (or check it was merged into another).",
+              "weight": 4
+            }
+          ],
+          "score": 0
+        },
+        {
+          "index": 1,
+          "heading": "My Blog",
+          "checks": [
+            {
+              "area": "section",
+              "what": "Present",
+              "original": "My Blog",
+              "imported": "no matching section",
+              "ok": false,
+              "fix": "Bring this section across (or check it was merged into another).",
+              "weight": 4
+            }
+          ],
+          "score": 0
+        }
+      ],
+      "strict": {
+        "score": 42,
+        "exact": 41.89494784802642,
+        "structure": 35,
+        "checks": 35.294117647058826
+      },
+      "visual": 0.617
+    },
+    {
+      "path": "/blog/f/what-is-it-to-be",
+      "original": "https://tantra369.com/blog/f/what-is-it-to-be/",
+      "imported": "/blog/f/what-is-it-to-be (local preview)",
+      "viewport": 390,
+      "score": 22,
+      "structure": 8,
+      "exact": 22.192455383747422,
+      "checks": [
+        {
+          "area": "type",
+          "what": "Heading 1: present",
+          "original": "Cinzel 37px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Body text: present",
+          "original": "Source Sans Pro 18px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Buttons: present",
+          "original": "Source Sans Pro 14px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "49.5px",
+          "imported": "51px",
+          "ok": true,
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "Sacred Sensuality",
+          "checks": [
+            {
+              "area": "section",
+              "what": "Present",
+              "original": "Sacred Sensuality",
+              "imported": "no matching section",
+              "ok": false,
+              "fix": "Bring this section across (or check it was merged into another).",
+              "weight": 4
+            }
+          ],
+          "score": 0
+        },
+        {
+          "index": 1,
+          "heading": "My Blog",
+          "checks": [
+            {
+              "area": "section",
+              "what": "Present",
+              "original": "My Blog",
+              "imported": "no matching section",
+              "ok": false,
+              "fix": "Bring this section across (or check it was merged into another).",
+              "weight": 4
+            }
+          ],
+          "score": 0
+        }
+      ],
+      "strict": {
+        "score": 22,
+        "exact": 22.192455383747422,
+        "structure": 8,
+        "checks": 8.333333333333334
+      },
+      "visual": 0.638
+    },
+    {
+      "path": "/blog/f/what-led-me-here",
+      "original": "https://tantra369.com/blog/f/what-led-me-here/",
+      "imported": "/blog/f/what-led-me-here (local preview)",
+      "viewport": 1440,
+      "score": 42,
+      "structure": 35,
+      "exact": 41.537332237875404,
+      "checks": [
+        {
+          "area": "type",
+          "what": "Heading 1: present",
+          "original": "Cinzel 51px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Body text: present",
+          "original": "Source Sans Pro 18px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Buttons: present",
+          "original": "Source Sans Pro 14px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "Source Sans Pro",
+          "imported": "Source Sans Pro",
+          "ok": true,
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Navigation size",
+          "original": "16px",
+          "imported": "16px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation letter spacing and case",
+          "original": "0.071em, uppercase",
+          "imported": "0.071em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "57.5px",
+          "imported": "56px",
+          "ok": true,
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "Sacred Sensuality",
+          "checks": [
+            {
+              "area": "section",
+              "what": "Present",
+              "original": "Sacred Sensuality",
+              "imported": "no matching section",
+              "ok": false,
+              "fix": "Bring this section across (or check it was merged into another).",
+              "weight": 4
+            }
+          ],
+          "score": 0
+        },
+        {
+          "index": 1,
+          "heading": "My Blog",
+          "checks": [
+            {
+              "area": "section",
+              "what": "Present",
+              "original": "My Blog",
+              "imported": "no matching section",
+              "ok": false,
+              "fix": "Bring this section across (or check it was merged into another).",
+              "weight": 4
+            }
+          ],
+          "score": 0
+        }
+      ],
+      "strict": {
+        "score": 42,
+        "exact": 41.537332237875404,
+        "structure": 35,
+        "checks": 35.294117647058826
+      },
+      "visual": 0.603
+    },
+    {
+      "path": "/blog/f/what-led-me-here",
+      "original": "https://tantra369.com/blog/f/what-led-me-here/",
+      "imported": "/blog/f/what-led-me-here (local preview)",
+      "viewport": 390,
+      "score": 21,
+      "structure": 8,
+      "exact": 20.66150165757395,
+      "checks": [
+        {
+          "area": "type",
+          "what": "Heading 1: present",
+          "original": "Cinzel 37px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Body text: present",
+          "original": "Source Sans Pro 18px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Buttons: present",
+          "original": "Source Sans Pro 14px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "49.5px",
+          "imported": "51px",
+          "ok": true,
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "Sacred Sensuality",
+          "checks": [
+            {
+              "area": "section",
+              "what": "Present",
+              "original": "Sacred Sensuality",
+              "imported": "no matching section",
+              "ok": false,
+              "fix": "Bring this section across (or check it was merged into another).",
+              "weight": 4
+            }
+          ],
+          "score": 0
+        },
+        {
+          "index": 1,
+          "heading": "My Blog",
+          "checks": [
+            {
+              "area": "section",
+              "what": "Present",
+              "original": "My Blog",
+              "imported": "no matching section",
+              "ok": false,
+              "fix": "Bring this section across (or check it was merged into another).",
+              "weight": 4
+            }
+          ],
+          "score": 0
+        }
+      ],
+      "strict": {
+        "score": 21,
+        "exact": 20.66150165757395,
+        "structure": 8,
+        "checks": 8.333333333333334
+      },
+      "visual": 0.576
+    },
+    {
+      "path": "/booking-request",
+      "original": "https://tantra369.com/booking-request/",
+      "imported": "/booking-request (local preview)",
+      "viewport": 1440,
+      "score": 24,
+      "structure": 24,
+      "exact": 24.175955165955806,
+      "checks": [
+        {
+          "area": "type",
+          "what": "Heading 1: present",
+          "original": "Cinzel 51px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Body text: present",
+          "original": "Source Sans Pro 18px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Buttons: present",
+          "original": "Source Sans Pro 16px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "Source Sans Pro",
+          "imported": "Source Sans Pro",
+          "ok": true,
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Navigation size",
+          "original": "16px",
+          "imported": "16px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation letter spacing and case",
+          "original": "0.071em, uppercase",
+          "imported": "0.071em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "89.5px",
+          "imported": "56px",
+          "ok": false,
+          "fix": "choices.layout.sectionPadding = 90",
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "Sacred Sensuality",
+          "checks": [
+            {
+              "area": "section",
+              "what": "Present",
+              "original": "Sacred Sensuality",
+              "imported": "no matching section",
+              "ok": false,
+              "fix": "Bring this section across (or check it was merged into another).",
+              "weight": 4
+            }
+          ],
+          "score": 0
+        },
+        {
+          "index": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Present",
+              "original": "Click here for the Google form for easie",
+              "imported": "no matching section",
+              "ok": false,
+              "fix": "Bring this section across (or check it was merged into another).",
+              "weight": 4
+            }
+          ],
+          "score": 0
+        },
+        {
+          "index": 2,
+          "heading": "Booking Request online booking tantra tantra appointment",
+          "checks": [
+            {
+              "area": "section",
+              "what": "Present",
+              "original": "Booking Request online booking tantra tantra appointment",
+              "imported": "no matching section",
+              "ok": false,
+              "fix": "Bring this section across (or check it was merged into another).",
+              "weight": 4
+            }
+          ],
+          "score": 0
+        }
+      ],
+      "strict": {
+        "score": 24,
+        "exact": 24.175955165955806,
+        "structure": 24,
+        "checks": 23.80952380952381
+      },
+      "visual": 0.253
+    },
+    {
+      "path": "/booking-request",
+      "original": "https://tantra369.com/booking-request/",
+      "imported": "/booking-request (local preview)",
+      "viewport": 390,
+      "score": 7,
+      "structure": 0,
+      "exact": 6.878403082168768,
+      "checks": [
+        {
+          "area": "type",
+          "what": "Heading 1: present",
+          "original": "Cinzel 37px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Body text: present",
+          "original": "Source Sans Pro 18px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Buttons: present",
+          "original": "Source Sans Pro 16px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "93.5px",
+          "imported": "51px",
+          "ok": false,
+          "fix": "choices.layout.sectionPaddingMobile = 94",
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "Sacred Sensuality",
+          "checks": [
+            {
+              "area": "section",
+              "what": "Present",
+              "original": "Sacred Sensuality",
+              "imported": "no matching section",
+              "ok": false,
+              "fix": "Bring this section across (or check it was merged into another).",
+              "weight": 4
+            }
+          ],
+          "score": 0
+        },
+        {
+          "index": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Present",
+              "original": "Click here for the Google form for easie",
+              "imported": "no matching section",
+              "ok": false,
+              "fix": "Bring this section across (or check it was merged into another).",
+              "weight": 4
+            }
+          ],
+          "score": 0
+        },
+        {
+          "index": 2,
+          "heading": "Booking Request online booking tantra tantra appointment",
+          "checks": [
+            {
+              "area": "section",
+              "what": "Present",
+              "original": "Booking Request online booking tantra tantra appointment",
+              "imported": "no matching section",
+              "ok": false,
+              "fix": "Bring this section across (or check it was merged into another).",
+              "weight": 4
+            }
+          ],
+          "score": 0
+        }
+      ],
+      "strict": {
+        "score": 7,
+        "exact": 6.878403082168768,
+        "structure": 0,
+        "checks": 0
+      },
+      "visual": 0.275
+    }
+  ]
+}

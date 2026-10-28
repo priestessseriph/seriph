@@ -1,0 +1,181 @@
+{
+  "version": 1,
+  "score": 29,
+  "strict": 29,
+  "scorer": "v3.1-corrected",
+  "before": 28,
+  "changes": [
+    "section padding on phones 57px"
+  ],
+  "strictBefore": 28,
+  "pages": [
+    {
+      "path": "/",
+      "device": "desktop",
+      "score": 48,
+      "strict": 48,
+      "before": 48,
+      "strictBefore": 48,
+      "image": "thumb-home-d.jpg",
+      "differs": [
+        "Present",
+        "Present",
+        "Present"
+      ]
+    },
+    {
+      "path": "/",
+      "device": "phone",
+      "score": 43,
+      "strict": 43,
+      "before": 45,
+      "strictBefore": 45,
+      "image": "thumb-home-m.jpg",
+      "differs": [
+        "Present",
+        "Present",
+        "Present"
+      ]
+    },
+    {
+      "path": "/about",
+      "device": "desktop",
+      "score": 31,
+      "strict": 31,
+      "before": 31,
+      "strictBefore": 31,
+      "image": "thumb-about-d.jpg",
+      "differs": [
+        "Present",
+        "Present",
+        "Present"
+      ]
+    },
+    {
+      "path": "/about",
+      "device": "phone",
+      "score": 15,
+      "strict": 15,
+      "before": 10,
+      "strictBefore": 10,
+      "image": "thumb-about-m.jpg",
+      "differs": [
+        "Present",
+        "Present",
+        "Present"
+      ]
+    },
+    {
+      "path": "/blog",
+      "device": "desktop",
+      "score": 39,
+      "strict": 39,
+      "before": 39,
+      "strictBefore": 39,
+      "image": "thumb-blog-d.jpg",
+      "differs": [
+        "Present",
+        "Present",
+        "Heading 1: present"
+      ]
+    },
+    {
+      "path": "/blog",
+      "device": "phone",
+      "score": 21,
+      "strict": 21,
+      "before": 15,
+      "strictBefore": 15,
+      "image": "thumb-blog-m.jpg",
+      "differs": [
+        "Present",
+        "Present",
+        "Heading 1: present"
+      ]
+    },
+    {
+      "path": "/blog/f/what-is-it-to-be",
+      "device": "desktop",
+      "score": 42,
+      "strict": 42,
+      "before": 42,
+      "strictBefore": 42,
+      "image": "thumb-blog-f-what-is-it-to-be-d.jpg",
+      "differs": [
+        "Present",
+        "Present",
+        "Heading 1: present"
+      ]
+    },
+    {
+      "path": "/blog/f/what-is-it-to-be",
+      "device": "phone",
+      "score": 22,
+      "strict": 22,
+      "before": 16,
+      "strictBefore": 16,
+      "image": "thumb-blog-f-what-is-it-to-be-m.jpg",
+      "differs": [
+        "Present",
+        "Present",
+        "Heading 1: present"
+      ]
+    },
+    {
+      "path": "/blog/f/what-led-me-here",
+      "device": "desktop",
+      "score": 42,
+      "strict": 42,
+      "before": 42,
+      "strictBefore": 42,
+      "image": "thumb-blog-f-what-led-me-here-d.jpg",
+      "differs": [
+        "Present",
+        "Present",
+        "Heading 1: present"
+      ]
+    },
+    {
+      "path": "/blog/f/what-led-me-here",
+      "device": "phone",
+      "score": 21,
+      "strict": 21,
+      "before": 14,
+      "strictBefore": 14,
+      "image": "thumb-blog-f-what-led-me-here-m.jpg",
+      "differs": [
+        "Present",
+        "Present",
+        "Heading 1: present"
+      ]
+    },
+    {
+      "path": "/booking-request",
+      "device": "desktop",
+      "score": 24,
+      "strict": 24,
+      "before": 24,
+      "strictBefore": 24,
+      "image": "thumb-booking-request-d.jpg",
+      "differs": [
+        "Present",
+        "Present",
+        "Present"
+      ]
+    },
+    {
+      "path": "/booking-request",
+      "device": "phone",
+      "score": 7,
+      "strict": 7,
+      "before": 7,
+      "strictBefore": 7,
+      "image": "thumb-booking-request-m.jpg",
+      "differs": [
+        "Present",
+        "Present",
+        "Present"
+      ]
+    }
+  ]
+}

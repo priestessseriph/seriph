@@ -1,39 +1,37 @@
 {
-  "$schema": "https://schema.openspace.host/v1/site.json",
-  "title": "Seriph",
+  "title": "Sacred Sensuality",
+  "tagline": "Expand your pleasure capacity by slowing down & allowing your awareness to surprise you My name is Seriph & I'm a sensuality guide and sexological bodyworker!",
+  "favicon": "media/2026/10/rs-w-180-h-180-m-5yf8.jpg",
   "nav": [
     {
-      "type": "page",
-      "page": "pg_5y6j5y52f2",
-      "label": "Home"
+      "type": "link",
+      "label": "RS2K Members Welcome",
+      "href": "http://www.rs2k.ch",
+      "newTab": true
     }
   ],
   "header": {
     "variant": "classic-left",
     "sticky": false,
     "transparentOnHero": false,
-    "mobileMenu": "slide"
+    "mobileMenu": "fullscreen"
   },
   "footer": {
-    "id": "sec_x4yj6bfjct",
+    "id": "sec_7darayjxk1",
     "layout": {
       "mode": "stack",
       "columns": {
         "d": [
           12
         ]
-      },
-      "align": "center"
+      }
     },
     "style": {
-      "colorTheme": "light",
-      "padding": {
-        "d": "md"
-      }
+      "colorTheme": "light"
     },
     "blocks": [
       {
-        "id": "blk_tnf5r47s97",
+        "id": "blk_pan2dtkvwa",
         "type": "text",
         "v": 1,
         "fields": {
@@ -45,15 +43,97 @@
                 "content": [
                   {
                     "type": "text",
-                    "text": "Seriph"
+                    "text": "Priestess Seriph"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Copyright © 2020 Tantra369 - All Rights Reserved"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Copyright © 2020 Tantra369 - All Rights Reserved"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Powered by"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Powered by"
                   }
                 ]
               }
             ]
           }
         }
+      },
+      {
+        "id": "blk_bdc4jjw05t",
+        "type": "social-links",
+        "v": 1,
+        "fields": {
+          "source": "site",
+          "profiles": [
+            {
+              "network": "instagram",
+              "url": "https://instagram.com/juniperyoga"
+            },
+            {
+              "network": "youtube",
+              "url": "https://youtube.com/@juniperyoga"
+            },
+            {
+              "network": "email",
+              "url": "mailto:hello@juniperyoga.com"
+            }
+          ]
+        }
       }
-    ]
+    ],
+    "label": "Footer"
   },
-  "locale": "en"
+  "social": [
+    {
+      "network": "instagram",
+      "url": "https://www.instagram.com/priestessseriph"
+    }
+  ],
+  "seo": {
+    "titleTemplate": "%s — Sacred Sensuality",
+    "description": "Expand your pleasure capacity by slowing down & allowing your awareness to surprise you My name is Seriph & I'm a sensuality guide and sexological bodyworker!",
+    "image": "media/2026/10/blob-06b1756-jzh8.jpg"
+  },
+  "locale": "en-US",
+  "integrations": {
+    "analytics": false,
+    "bookingUrl": null,
+    "stripeConnected": false
+  },
+  "redirects": [
+    {
+      "from": "/services/ola/services/meet-greet",
+      "to": "/services/",
+      "status": 301
+    }
+  ]
 }

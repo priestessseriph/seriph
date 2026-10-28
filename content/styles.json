@@ -1,17 +1,107 @@
 {
-  "$schema": "https://schema.openspace.host/v1/styles.json",
   "choices": {
     "palette": {
-      "brand": "oklch(0.45 0.05 250)",
-      "neutral": "warm",
+      "brand": "oklch(0.25 0 0)",
+      "neutral": "pure",
       "contrast": "standard",
       "source": "curated"
     },
-    "pairing": "fraunces-hanken",
+    "pairing": "bricolage-geist",
     "density": "comfortable",
     "shape": "soft",
     "buttons": "solid",
     "motion": "subtle",
-    "imageTreatment": "none"
+    "imageTreatment": "none",
+    "typography": {
+      "heading": {
+        "family": "Cinzel",
+        "category": "sans-serif",
+        "weights": [
+          400
+        ]
+      },
+      "body": {
+        "family": "Source Sans Pro",
+        "category": "sans-serif",
+        "weights": [
+          400,
+          600,
+          700
+        ]
+      },
+      "scale": {
+        "h1": {
+          "size": 71,
+          "sizeMobile": 46,
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "case": "none",
+          "weight": 400
+        },
+        "body": {
+          "size": 18,
+          "sizeMobile": 18,
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "case": "none"
+        },
+        "h3": {
+          "size": 38.3,
+          "lineHeight": 1.16,
+          "letterSpacing": 0,
+          "case": "none",
+          "font": "heading",
+          "weight": 400
+        },
+        "h4": {
+          "size": 27.2,
+          "lineHeight": 1.23,
+          "letterSpacing": 0,
+          "case": "none",
+          "font": "heading",
+          "weight": 400
+        },
+        "display": {
+          "size": 71,
+          "sizeMobile": 46,
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "case": "none",
+          "weight": 400
+        },
+        "lead": {
+          "size": 25,
+          "sizeMobile": 25,
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "case": "none",
+          "font": "body"
+        },
+        "button": {
+          "size": 16,
+          "sizeMobile": 16,
+          "lineHeight": 1.2,
+          "letterSpacing": 0.071,
+          "case": "uppercase",
+          "weight": 700,
+          "font": "body"
+        },
+        "nav": {
+          "size": 16,
+          "lineHeight": 1.5,
+          "letterSpacing": 0.071,
+          "case": "uppercase",
+          "weight": 400,
+          "font": "body"
+        }
+      }
+    },
+    "layout": {
+      "contentWidth": 1344,
+      "sectionPadding": 56,
+      "sectionPaddingMobile": 57,
+      "gutterMobile": 32,
+      "gutter": 32
+    }
   }
 }

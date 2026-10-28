@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "source": "import",
+  "from": "GoDaddy Website Builder",
+  "items": [
+    {
+      "id": "domain",
+      "kind": "domain",
+      "title": "Use tantra369.com for your new site",
+      "detail": "Your new site is live on a free address. When you're happy with it, we'll help you point tantra369.com at it — your old site keeps working until then.",
+      "status": "todo"
+    },
+    {
+      "id": "analytics",
+      "kind": "analytics",
+      "title": "Turn on visitor statistics",
+      "detail": "Your old site counted visitors. Turn on OpenSpace's privacy-friendly statistics in one click.",
+      "status": "todo"
+    },
+    {
+      "id": "custom-code",
+      "kind": "custom-code",
+      "title": "Check special features",
+      "detail": "Your old site had add-ons (chat, booking or other widgets). See which ones you still need.",
+      "where": [],
+      "status": "todo"
+    }
+  ]
+}
